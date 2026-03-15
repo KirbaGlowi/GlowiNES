@@ -1,5 +1,5 @@
-# KXPReloaded
-KXPReloaded is a web-based Nintendo Entertainment System (NES) emulator built from the ground up to be a lightweight and user-friendly platform for reliving classic games.
+# GlowiNES
+GlowiNES is a web-based Nintendo Entertainment System (NES) emulator using KXPReloaded to be a lightweight and user-friendly platform for reliving classic games.
 
 This project's core is powered by JavaScript, providing a seamless in-browser experience without the need for additional plugins. It is currently in active development, with future plans to release native clients for both Windows and Linux.
 
@@ -16,7 +16,5 @@ Features
     Full-screen Mode: Immerse yourself in the classic gaming experience.
 
     
-    
-
 
 
